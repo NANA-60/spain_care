@@ -1,0 +1,20 @@
+{
+  "app_name": "SpineCare",
+  "settings": "الإعدادات",
+  "dark_mode": "الوضع الداكن",
+  "language": "اللغة",
+  "about_app": "حول التطبيق",
+  "home": "الرئيسية",
+  "logout": "تسجيل الخروج",
+  "camera": "الكاميرا",
+  "gallery": "المعرض",
+  "diagnosis": "التشخيص",
+  "confidence": "نسبة الثقة",
+  "upload_image": "اضغط هنا لتحميل صورة الأشعة",
+  "continue": "متابعة",
+  "appearance": "المظهر",
+  "analysis": "تحليل الصورة",
+  "analyzing": "جاري تحليل الصورة...",
+  "result": "النتيجة",
+  "back_home": "العودة للرئيسية"
+}

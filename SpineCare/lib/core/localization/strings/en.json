@@ -1,0 +1,20 @@
+{
+  "app_name": "SpineCare",
+  "settings": "Settings",
+  "dark_mode": "Dark Mode",
+  "language": "Language",
+  "about_app": "About App",
+  "home": "Home",
+  "logout": "Logout",
+  "camera": "Camera",
+  "gallery": "Gallery",
+  "diagnosis": "Diagnosis",
+  "confidence": "Confidence",
+  "upload_image": "Tap here to upload MRI image",
+  "continue": "Continue",
+  "analyze": "Analyze",
+  "appearance": "ِAppearance",
+  "analyzing": "Analyzing image...",
+  "result": "Result",
+  "back_home": "Back to Home"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687947286418",
+    "project_id": "spine-care-59b5a",
+    "storage_bucket": "spine-care-59b5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687947286418:android:e22a2be001b4279317e34b",
+        "android_client_info": {
+          "package_name": "com.example.spinecare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM-kJqTJai5g__2FdXr5hQEDO7qRpQvTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
